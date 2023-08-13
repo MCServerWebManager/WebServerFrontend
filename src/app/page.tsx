@@ -1,4 +1,3 @@
-import { Inter } from 'next/font/google'
 import {Button, Divider, TextField} from "@mui/material";
 
 export default function Home() {
