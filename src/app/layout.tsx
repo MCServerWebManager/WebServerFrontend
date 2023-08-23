@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css'
 import { Inter } from 'next/font/google'
 import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
