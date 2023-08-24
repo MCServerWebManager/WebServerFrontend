@@ -1,7 +1,7 @@
 import React from 'react';
 
 function ServersPage() {
-    return
+    return null
 }
 
 export default ServersPage

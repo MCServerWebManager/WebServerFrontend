@@ -2,7 +2,7 @@ import React from 'react';
 import style from './style.module.css';
 
 function HomePage() {
-    return
+    return null
 }
 
 export default HomePage;
