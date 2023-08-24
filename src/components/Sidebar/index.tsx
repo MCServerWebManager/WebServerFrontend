@@ -17,8 +17,8 @@ function Sidebar() {
     const router = useRouter(),
         [selectedRoute, setSelectedRoute] = useState(router.pathname);
 
-    function goToRoute(route: string) {
-        router.push(route)
+    async function goToRoute(route: string) {
+        await router.push(route)
         setSelectedRoute(route)
     }
 
